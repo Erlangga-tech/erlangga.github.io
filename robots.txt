@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://erlangga.tech/sitemap.xml
+Sitemap: https://erlangga.tech/sitemap.rss
+
